@@ -36,7 +36,7 @@ GROUP BY age_group
 ORDER BY avg_total_debt DESC;
 ```
 
-Full SQL scripts can be found in the [staging](staging/) and [views](views/) folders.
+Full SQL scripts can be found in the [staging](sql/staging/) and [views](sql/views/) folders.
 
 ## Data Model
 
