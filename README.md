@@ -2,9 +2,9 @@
 
 ## Project Description
 
-This project demonstrates an **ELT-style analytics pipeline** built on financial transaction data. The primary focus is on **customer debt analysis**.
+This project demonstrates an end-to-end **ELT-style data pipeline** built on financial transaction data. The primary focus is on **data engineering**, including relational data modeling and SQL-based transformations.
 
-The goal of the project was to design a relational data model, transform raw data into analytical views using SQL, and create business-oriented debt insights through Power BI visualizations.
+The goal of the project was to design a relational data model and transform raw data into analytics-ready datasets using SQL, with Power BI used to verify the results.
 
 ## Data Pipeline
 
@@ -76,5 +76,6 @@ The Power BI dashboard is shown below:
 
 - Designing relational data models for analytics
 - Structuring SQL transformations using staging and final layers
+- Gaining hands-on experience building an end-to-end data pipeline
 - Applying ELT principles in an analytics project
 - Creating business-focused debt insights from data
