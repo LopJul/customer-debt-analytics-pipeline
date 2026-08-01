@@ -4,7 +4,7 @@
 
 This project demonstrates a small-scale **ELT-style workflow** built on financial transaction data. The primary focus is on **data engineering**, including relational data modeling and SQL-based transformations.
 
-The goal of the project was to design a relational data model and transform raw data into analytics-ready datasets using SQL, with Power BI used to verify the results.
+The goal of the project was to design a relational data model, transform raw data into analytics-ready datasets using SQL, and use Power BI to visualise the results and explore customer debt patterns.
 
 ## Data Pipeline
 
